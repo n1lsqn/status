@@ -19,8 +19,8 @@
   },
   {
     "name": "ObjectStorage",
-    "url": "https://s3.n1l.dev/misskey",
-    "icon": "https://icons.duckduckgo.com/ip3/s3.n1l.dev.ico",
+    "url": "https://s3-console.n1l.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/s3-console.n1l.dev.ico",
     "slug": "object-storage",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1031,
-    "timeDay": 1031,
-    "timeWeek": 1031,
-    "timeMonth": 1031,
-    "timeYear": 1031,
+    "time": 823,
+    "timeDay": 823,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {}
   }
 ]
