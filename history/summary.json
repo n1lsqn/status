@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3-console.n1l.dev.ico",
     "slug": "object-storage",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 573,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "uptime": "95.80%",
+    "uptimeDay": "88.76%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.80%",
+    "time": 620,
+    "timeDay": 594,
+    "timeWeek": 620,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2023-11-10": 0
+      "2023-11-10": 162
     }
   },
   {
