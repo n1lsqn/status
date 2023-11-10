@@ -33,7 +33,9 @@
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 0
+    }
   },
   {
     "name": "Upptime",
