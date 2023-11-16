@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 494,
-    "timeWeek": 580,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 568,
+    "timeDay": 528,
+    "timeWeek": 591,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3-console.n1l.dev.ico",
     "slug": "object-storage",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
-    "time": 579,
-    "timeDay": 479,
-    "timeWeek": 538,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 571,
+    "timeDay": 442,
+    "timeWeek": 537,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2023-11-10": 162
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 106,
-    "timeWeek": 117,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 121,
+    "timeDay": 184,
+    "timeWeek": 111,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://peertube.n1l.dev",
     "icon": "https://icons.duckduckgo.com/ip3/peertube.n1l.dev.ico",
     "slug": "peertube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 800,
-    "timeWeek": 800,
-    "timeMonth": 800,
-    "timeYear": 800,
-    "dailyMinutesDown": {}
+    "time": 669,
+    "timeDay": 407,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   }
 ]
