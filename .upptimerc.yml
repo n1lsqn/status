@@ -7,6 +7,8 @@ sites:
     url: https://papi.n1l.dev
   - name: dw.n1l.dev
     url: https://dw.n1l.dev
+  - name: mogeko.monster
+    url: https://mogeko.monster
   - name: ObjectStorage
     url: https://s3-console.n1l.dev/
   - name: Upptime
