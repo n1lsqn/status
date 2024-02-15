@@ -1,7 +1,7 @@
 url: https://status.n1l.dev
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2024-02-14T23:09:25.509Z
+status: down
+code: 403
+responseTime: 58
+lastUpdated: 2024-02-15T21:52:47.872Z
 startTime: 2023-11-08T00:00:14.856Z
 generator: Upptime <https://github.com/upptime/upptime>
