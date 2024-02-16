@@ -1,7 +1,7 @@
 url: https://s3-console.n1l.dev/
-status: down
-code: 403
-responseTime: 80
-lastUpdated: 2024-02-15T23:09:42.867Z
+status: up
+code: 200
+responseTime: 670
+lastUpdated: 2024-02-16T16:31:31.075Z
 startTime: 2023-11-07T23:24:39.258Z
 generator: Upptime <https://github.com/upptime/upptime>
