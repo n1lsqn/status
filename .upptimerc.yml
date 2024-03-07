@@ -5,8 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: papi.n1l.dev
     url: https://papi.n1l.dev
+  - name: m.n1l.dev
+    url: https://m.n1l.dev
   - name: dw.n1l.dev
     url: https://dw.n1l.dev
+  - name: rasp.n1l.dev
+    url: https://rasp.n1l.dev
   - name: mogeko.monster
     url: https://mogeko.monster
   - name: ObjectStorage
