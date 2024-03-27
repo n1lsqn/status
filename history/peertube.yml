@@ -1,7 +1,7 @@
 url: https://peertube.n1l.dev
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2024-03-27T19:45:05.628Z
+status: down
+code: 530
+responseTime: 88
+lastUpdated: 2024-03-27T20:03:08.910Z
 startTime: 2023-11-14T14:36:46.017Z
 generator: Upptime <https://github.com/upptime/upptime>
