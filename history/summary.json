@@ -92,12 +92,12 @@
     "url": "https://rasp.n1l.dev",
     "icon": "https://icons.duckduckgo.com/ip3/rasp.n1l.dev.ico",
     "slug": "rasp-n1l-dev",
-    "status": "up",
-    "uptime": "96.50%",
-    "uptimeDay": "88.49%",
+    "status": "down",
+    "uptime": "96.52%",
+    "uptimeDay": "89.50%",
     "uptimeWeek": "97.05%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "96.50%",
+    "uptimeYear": "96.52%",
     "time": 7104,
     "timeDay": 18087,
     "timeWeek": 9956,
@@ -131,7 +131,7 @@
       "2024-05-30": 83,
       "2024-05-29": 189,
       "2024-05-28": 100,
-      "2024-05-27": 436
+      "2024-05-27": 400
     }
   },
   {
