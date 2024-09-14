@@ -1,7 +1,7 @@
 url: https://rasp.n1l.dev
-status: up
-code: 200
-responseTime: 13259
-lastUpdated: 2024-09-14T06:37:23.005Z
+status: down
+code: 502
+responseTime: 4427
+lastUpdated: 2024-09-14T16:38:31.902Z
 startTime: 2024-03-07T13:11:04.651Z
 generator: Upptime <https://github.com/upptime/upptime>
