@@ -105,14 +105,14 @@
     "slug": "rasp-n1l-dev",
     "status": "up",
     "uptime": "98.15%",
-    "uptimeDay": "94.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.16%",
-    "uptimeMonth": "90.20%",
+    "uptimeMonth": "90.31%",
     "uptimeYear": "98.15%",
     "time": 7344,
-    "timeDay": 13617,
+    "timeDay": 5259,
     "timeWeek": 8952,
-    "timeMonth": 7512,
+    "timeMonth": 7533,
     "timeYear": 7344,
     "dailyMinutesDown": {
       "2024-10-03": 83,
@@ -172,9 +172,9 @@
     "url": "https://mogeko.monster",
     "icon": "https://icons.duckduckgo.com/ip3/mogeko.monster.ico",
     "slug": "mogeko-monster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -184,6 +184,7 @@
     "timeMonth": 998,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2024-10-04": 0,
       "2023-12-19": 74
     }
   },
