@@ -6,7 +6,7 @@
     "slug": "papi-n1l-dev",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "65.67%",
+    "uptimeDay": "74.26%",
     "uptimeWeek": "90.27%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "99.49%",
@@ -199,18 +199,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/peertube.n1l.dev.ico",
     "slug": "peertube",
     "status": "down",
-    "uptime": "91.05%",
+    "uptime": "91.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.37%",
-    "uptimeYear": "91.00%",
+    "uptimeMonth": "27.09%",
+    "uptimeYear": "90.98%",
     "time": 897,
     "timeDay": 624,
     "timeWeek": 598,
     "timeMonth": 560,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-11-27": 1428,
+      "2024-11-28": 111,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -260,8 +261,7 @@
       "2023-12-09": 89,
       "2023-12-08": 183,
       "2023-12-07": 441,
-      "2023-12-02": 100,
-      "2023-11-29": 497
+      "2023-12-02": 100
     }
   }
 ]
