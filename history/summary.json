@@ -11,9 +11,9 @@
     "uptimeMonth": "97.27%",
     "uptimeYear": "99.09%",
     "time": 564,
-    "timeDay": 489,
-    "timeWeek": 563,
-    "timeMonth": 567,
+    "timeDay": 618,
+    "timeWeek": 565,
+    "timeMonth": 565,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-01-27": 473,
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dw.n1l.dev.ico",
     "slug": "dw-n1l-dev",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.14%",
     "time": 805,
-    "timeDay": 722,
-    "timeWeek": 646,
-    "timeMonth": 1196,
+    "timeDay": 702,
+    "timeWeek": 662,
+    "timeMonth": 1197,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2025-01-19": 23,
@@ -102,8 +102,7 @@
       "2024-02-20": 27,
       "2024-02-16": 991,
       "2024-02-15": 127,
-      "2024-02-01": 20,
-      "2024-01-31": 19
+      "2024-02-01": 20
     }
   },
   {
@@ -118,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
-    "timeDay": 586,
-    "timeWeek": 821,
-    "timeMonth": 880,
+    "timeDay": 1046,
+    "timeWeek": 839,
+    "timeMonth": 883,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2024-10-04": 26
@@ -138,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 593,
-    "timeDay": 443,
-    "timeWeek": 555,
-    "timeMonth": 565,
-    "timeYear": 597,
+    "timeDay": 657,
+    "timeWeek": 568,
+    "timeMonth": 567,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2024-10-07": 31,
       "2024-09-28": 29,
@@ -162,10 +161,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 146,
-    "timeDay": 294,
-    "timeWeek": 222,
-    "timeMonth": 181,
-    "timeYear": 149,
+    "timeDay": 229,
+    "timeWeek": 212,
+    "timeMonth": 185,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2024-02-16": 992,
       "2024-02-15": 127
