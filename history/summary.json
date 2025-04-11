@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/papi.n1l.dev.ico",
     "slug": "papi-n1l-dev",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
@@ -42,18 +42,19 @@
     "url": "https://dw.n1l.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dw.n1l.dev.ico",
     "slug": "dw-n1l-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "96.64%",
-    "uptimeDay": "98.37%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "79.89%",
     "uptimeMonth": "93.75%",
     "uptimeYear": "95.57%",
-    "time": 1331,
-    "timeDay": 1188,
+    "time": 1332,
+    "timeDay": 570,
     "timeWeek": 1841,
     "timeMonth": 1843,
     "timeYear": 1505,
     "dailyMinutesDown": {
+      "2025-04-11": 0,
       "2025-04-10": 23,
       "2025-04-07": 990,
       "2025-04-06": 963,
@@ -113,8 +114,7 @@
       "2024-08-08": 25,
       "2024-07-18": 163,
       "2024-07-16": 175,
-      "2024-07-09": 452,
-      "2024-06-28": 18
+      "2024-07-09": 452
     }
   },
   {
