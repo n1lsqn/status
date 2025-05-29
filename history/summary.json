@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.21%",
     "time": 572,
-    "timeDay": 529,
-    "timeWeek": 563,
-    "timeMonth": 581,
+    "timeDay": 527,
+    "timeWeek": 564,
+    "timeMonth": 583,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2025-05-28": 42,
@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dw.n1l.dev.ico",
     "slug": "dw-n1l-dev",
     "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "95.82%",
+    "uptime": "97.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "95.77%",
     "time": 1665,
-    "timeDay": 689,
-    "timeWeek": 1541,
-    "timeMonth": 2550,
+    "timeDay": 647,
+    "timeWeek": 1539,
+    "timeMonth": 2508,
     "timeYear": 1858,
     "dailyMinutesDown": {
-      "2025-05-28": 11,
       "2025-05-20": 50,
       "2025-05-08": 461,
       "2025-05-07": 1143,
@@ -111,7 +110,8 @@
       "2024-11-16": 184,
       "2024-11-14": 364,
       "2024-11-13": 1245,
-      "2024-11-12": 526
+      "2024-11-12": 526,
+      "2024-11-11": 268
     }
   },
   {
@@ -126,10 +126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 900,
-    "timeDay": 966,
-    "timeWeek": 893,
-    "timeMonth": 917,
-    "timeYear": 912,
+    "timeDay": 1236,
+    "timeWeek": 913,
+    "timeMonth": 924,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2024-10-04": 26
     }
@@ -145,9 +145,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 642,
-    "timeDay": 620,
-    "timeWeek": 571,
+    "time": 643,
+    "timeDay": 631,
+    "timeWeek": 568,
     "timeMonth": 1348,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -169,9 +169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 180,
+    "timeDay": 179,
     "timeWeek": 211,
-    "timeMonth": 205,
+    "timeMonth": 207,
     "timeYear": 169,
     "dailyMinutesDown": {}
   }
