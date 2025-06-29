@@ -41,9 +41,9 @@
     "slug": "dw-n1l-dev",
     "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "96.33%",
     "time": 1628,
     "timeDay": 1254,
@@ -51,7 +51,6 @@
     "timeMonth": 1457,
     "timeYear": 1896,
     "dailyMinutesDown": {
-      "2025-06-29": 11,
       "2025-06-18": 46,
       "2025-06-12": 102,
       "2025-06-11": 17,
@@ -110,7 +109,7 @@
       "2024-11-25": 124,
       "2024-11-20": 106,
       "2024-11-19": 438,
-      "2024-11-18": 22
+      "2024-11-18": 63
     }
   },
   {
@@ -138,9 +137,9 @@
     "url": "https://s3-console.n1l.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/s3-console.n1l.dev.ico",
     "slug": "object-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
@@ -150,6 +149,7 @@
     "timeMonth": 577,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-18": 40,
       "2025-02-07": 95,
       "2025-02-06": 78,
