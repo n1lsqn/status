@@ -14,7 +14,7 @@
     "timeDay": 598,
     "timeWeek": 561,
     "timeMonth": 569,
-    "timeYear": 583,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2025-05-28": 42,
       "2025-03-29": 339,
@@ -40,18 +40,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dw.n1l.dev.ico",
     "slug": "dw-n1l-dev",
     "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.81%",
+    "uptime": "97.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "96.34%",
+    "uptimeYear": "96.33%",
     "time": 1652,
     "timeDay": 1492,
     "timeWeek": 1565,
     "timeMonth": 1293,
-    "timeYear": 1901,
+    "timeYear": 1903,
     "dailyMinutesDown": {
-      "2025-07-01": 3,
       "2025-06-29": 16,
       "2025-06-18": 46,
       "2025-06-12": 102,
@@ -110,7 +109,8 @@
       "2024-11-28": 422,
       "2024-11-25": 124,
       "2024-11-20": 106,
-      "2024-11-19": 438
+      "2024-11-19": 438,
+      "2024-11-18": 22
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeDay": 778,
     "timeWeek": 1068,
     "timeMonth": 932,
-    "timeYear": 922,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2024-10-04": 26
     }
@@ -148,7 +148,7 @@
     "timeDay": 617,
     "timeWeek": 597,
     "timeMonth": 571,
-    "timeYear": 636,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2025-07-01": 734,
       "2025-06-30": 164,
