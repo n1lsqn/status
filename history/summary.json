@@ -39,18 +39,19 @@
     "url": "https://dw.n1l.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dw.n1l.dev.ico",
     "slug": "dw-n1l-dev",
-    "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "88.50%",
+    "status": "down",
+    "uptime": "97.57%",
+    "uptimeDay": "96.95%",
     "uptimeWeek": "82.18%",
     "uptimeMonth": "95.30%",
-    "uptimeYear": "96.11%",
-    "time": 1737,
-    "timeDay": 1293,
-    "timeWeek": 1754,
-    "timeMonth": 1898,
-    "timeYear": 1954,
+    "uptimeYear": "96.19%",
+    "time": 1732,
+    "timeDay": 701,
+    "timeWeek": 1676,
+    "timeMonth": 1872,
+    "timeYear": 1951,
     "dailyMinutesDown": {
+      "2025-07-10": 0,
       "2025-07-09": 200,
       "2025-07-08": 1440,
       "2025-07-07": 94,
@@ -111,8 +112,7 @@
       "2024-12-05": 350,
       "2024-12-04": 1117,
       "2024-12-03": 560,
-      "2024-12-02": 163,
-      "2024-11-28": 422
+      "2024-12-02": 163
     }
   },
   {
