@@ -9,8 +9,8 @@ sites:
   #  url: https://m.n1l.dev
   - name: dw.n1l.dev
     url: https://dw.n1l.dev
-  # - name: rasp.n1l.dev
-  #  url: https://rasp.n1l.dev
+  - name: mc.n1l.dev
+    url: https://mc.n1l.dev
   - name: mogeko.monster
     url: https://mogeko.monster
   - name: ObjectStorage
