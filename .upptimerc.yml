@@ -10,7 +10,8 @@ sites:
   - name: dw.n1l.dev
     url: https://dw.n1l.dev
   - name: mc.n1l.dev
-    url: https://mc.n1l.dev
+    url: mc.n1l.dev
+    port: 25565
   - name: mogeko.monster
     url: https://mogeko.monster
   - name: ObjectStorage
