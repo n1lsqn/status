@@ -54,7 +54,7 @@
     "timeMonth": 169,
     "timeYear": 2522,
     "dailyMinutesDown": {
-      "2025-10-09": 16,
+      "2025-10-09": 30,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -150,18 +150,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-n1l-dev",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.66%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 345,
     "timeDay": 311,
     "timeWeek": 327,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-10-09": 0,
+      "2025-10-09": 15,
       "2025-09-23": 22,
       "2025-09-15": 79
     }
