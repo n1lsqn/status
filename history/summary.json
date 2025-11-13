@@ -6,7 +6,7 @@
     "slug": "papi-n1l-dev",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "78.43%",
+    "uptimeDay": "78.42%",
     "uptimeWeek": "92.79%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "98.39%",
@@ -62,7 +62,7 @@
     "timeMonth": 147,
     "timeYear": 2547,
     "dailyMinutesDown": {
-      "2025-11-13": 462,
+      "2025-11-13": 470,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
