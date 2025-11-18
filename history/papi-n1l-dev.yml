@@ -1,7 +1,7 @@
 url: https://papi.n1l.dev
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2025-11-18T04:00:37.925Z
+status: down
+code: 502
+responseTime: 656
+lastUpdated: 2025-11-18T04:50:41.909Z
 startTime: 2023-11-07T23:24:38.326Z
 generator: Upptime <https://github.com/upptime/upptime>
