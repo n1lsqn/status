@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "98.77%",
     "uptimeDay": "46.01%",
-    "uptimeWeek": "65.59%",
-    "uptimeMonth": "89.34%",
+    "uptimeWeek": "65.51%",
+    "uptimeMonth": "89.33%",
     "uptimeYear": "97.83%",
     "time": 577,
     "timeDay": 599,
@@ -16,7 +16,7 @@
     "timeMonth": 541,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-11-18": 487,
+      "2025-11-18": 495,
       "2025-11-17": 728,
       "2025-11-16": 95,
       "2025-11-15": 977,
@@ -67,7 +67,7 @@
     "timeMonth": 148,
     "timeYear": 2571,
     "dailyMinutesDown": {
-      "2025-11-18": 705,
+      "2025-11-18": 714,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -228,19 +228,19 @@
     "url": "https://mogeko.monster",
     "icon": "https://icons.duckduckgo.com/ip3/mogeko.monster.ico",
     "slug": "mogeko-monster",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 950,
-    "timeDay": 579,
-    "timeWeek": 792,
-    "timeMonth": 1356,
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.85%",
+    "time": 949,
+    "timeDay": 689,
+    "timeWeek": 805,
+    "timeMonth": 1342,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 8,
       "2025-08-08": 761
     }
   },
@@ -276,18 +276,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.n1l.dev.ico",
     "slug": "upptime",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 234,
     "timeWeek": 205,
     "timeMonth": 182,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2025-11-18": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
