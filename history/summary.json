@@ -4,15 +4,15 @@
     "url": "https://papi.n1l.dev",
     "icon": "https://icons.duckduckgo.com/ip3/papi.n1l.dev.ico",
     "slug": "papi-n1l-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "63.23%",
+    "uptimeDay": "63.22%",
     "uptimeWeek": "38.43%",
     "uptimeMonth": "75.93%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.24%",
     "time": 577,
-    "timeDay": 505,
-    "timeWeek": 480,
+    "timeDay": 510,
+    "timeWeek": 482,
     "timeMonth": 554,
     "timeYear": 579,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
       "2025-11-11": 223,
       "2025-11-07": 153,
       "2025-11-06": 41,
-      "2025-11-05": 607
+      "2025-11-05": 544
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 123,
     "timeYear": 2163,
     "dailyMinutesDown": {
-      "2026-03-20": 1296,
+      "2026-03-20": 1311,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
